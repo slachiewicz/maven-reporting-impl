@@ -70,7 +70,7 @@
   <properties>
     <mavenVersion>3.0</mavenVersion>
     <doxiaVersion>1.7</doxiaVersion>
-    <doxiaSitetoolsVersion>1.7.4</doxiaSitetoolsVersion>
+    <doxiaSitetoolsVersion>1.9.1</doxiaSitetoolsVersion>
     <javaVersion>7</javaVersion>
   </properties>
 
